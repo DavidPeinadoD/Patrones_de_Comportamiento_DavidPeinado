@@ -1,7 +1,5 @@
 # ProblemaDeLaParada_DavidPeinado
  
-### DavidPeinadoD/Patrones_de_Comportamiento_DavidPeinado
-
 
 #### Reflexión final
 
@@ -40,3 +38,13 @@ public class Program {
 **¿Cuál su importancia en la ciencia de la computación y posibles implicaciones en otros campos de estudio o en la vida real?**
 
 *Podríamos decir que es importante para conocer cuales son los límites de los ordenadores. También nos ayuda a darnos cuenta de que hoy en día no hay ningun algoritmo general que garantice la detección de un programa,es el caso del supuesto computador H del videdo proporcionado en el enunciado, que es imposible que exista, esto significa que verificar un código para que termine en todos las situaciones es algo que requiere mas esfuerzo cuanto más complejo es el programa. Otro caso en el que se podría implementar sería en la seguridad informática, ya quelos bucles infinitos podrían ser utilizados como "exploits".
+
+
+<sub>Repositorio: DavidPeinadoD/Patrones_de_Comportamiento_DavidPeinado 
+ <br>
+ Hecho por David Peinado Díaz<sub/>
+ 
+ 
+ 
+ 
+ 
