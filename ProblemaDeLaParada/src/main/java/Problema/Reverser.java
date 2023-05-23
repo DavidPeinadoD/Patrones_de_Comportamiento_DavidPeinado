@@ -11,13 +11,13 @@ public class Reverser implements HaltObserver {
 
     @Override
     public boolean halts(Program program, Input input) {
-            if (true){
+            if (haltChecker.checkHalt(program, input)==true){
                 System.out.println("Reverser: Bucle Infinito");
                 do {
 
-                }while (true);
+                }while (false);
             }else{
-                System.out.println("Se para");
+                System.out.println("Reverser: Se para");
             }
 
         return false;

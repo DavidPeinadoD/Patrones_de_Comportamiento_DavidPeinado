@@ -1,8 +1,6 @@
 package Problema;
 
 
-import Problema.AbstractFactory.DefaultHaltCheckerFactory;
-import Problema.AbstractFactory.HaltCheckerFactory;
 import Problema.Observer.DefaultHaltObserver;
 
 public class Main {
@@ -14,7 +12,7 @@ public class Main {
         Program program = new Program();
 
         // Crear una instancia de Input
-        Input input = new Input(500); // Ejemplo de entrada
+        Input input = new Input(5000); // Ejemplo de entrada
 
         // Crear una instancia de DefaultHaltObserver
         DefaultHaltObserver defaultHaltObserver = new DefaultHaltObserver();
