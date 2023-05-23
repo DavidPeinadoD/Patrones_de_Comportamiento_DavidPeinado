@@ -15,7 +15,7 @@ public class Reverser implements HaltObserver {
                 System.out.println("Reverser: Bucle Infinito");
                 do {
 
-                }while (false);
+                }while (true);
             }else{
                 System.out.println("Reverser: Se para");
             }
